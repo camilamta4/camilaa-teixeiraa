@@ -32,5 +32,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+![Snake animation](https://github.com/camilaa-teixeiraa/camilaa-teixeiraa/blob/output/github-contribution-grid-snake.svg)
+
